@@ -23,5 +23,8 @@ main{
     width: 500px;
     background-color: var(--white);
     border-radius: 25px;
+    box-shadow: 10px 10px ;
+    border: 2px solid black;
+
    
 }
