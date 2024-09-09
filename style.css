@@ -15,16 +15,20 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     
 }
 
 main{
-    height: 600px;
-    width: 500px;
+    height: 500px;
+    width: 380px;
     background-color: var(--white);
     border-radius: 25px;
     box-shadow: 10px 10px ;
     border: 2px solid black;
+    }
 
-   
+.photo{
+    margin-top: 20px;
+    border-radius: 10px;
 }
