@@ -7,3 +7,7 @@
     --gray-5: hsl(0, 0%, 42%);
     --gray-9: hsl(0, 0%, 7%);
 }
+html{
+    background-color: var(--yellow);
+}
+
