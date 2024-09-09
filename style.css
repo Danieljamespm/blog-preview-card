@@ -20,6 +20,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    justify-content: space-around;
     
 }
 
@@ -50,5 +51,17 @@ h1{
 p{
     
     color: var(--gray-5);
+}
+
+.btn{
+    
+    width: 90px;
+    height: 25px;
+    text-align: center;
+    padding-top: 6px;
+    background-color: var(--yellow);
+    border-radius: 5px;
+    font-weight: 800;
+    color: var(--gray-9);
 }
 
